@@ -1,1 +1,1 @@
-# .github
+# Let's make great games!
